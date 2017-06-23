@@ -13128,8 +13128,8 @@ pre.line-numbers>code {
 }
 
 .wrap {
-    padding: 60px 0;
-    padding: 6rem 0
+    padding: 20px 0;
+    /*padding: 6rem 0*/
 }
 
 .wrap.wrap-mountain {
