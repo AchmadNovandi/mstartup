@@ -13128,8 +13128,8 @@ pre.line-numbers>code {
 }
 
 .wrap {
-    padding: 20px 0;
-    /*padding: 6rem 0*/
+    /*padding: 20px 0;
+    padding: 6rem 0*/
 }
 
 .wrap.wrap-mountain {
@@ -13165,6 +13165,12 @@ pre.line-numbers>code {
 .wrap.wrap-mountain .container {
     position: relative;
     z-index: 1
+}
+
+.responsive img {
+    max-width:100%;
+    /*width:100%;*/
+    height: auto;
 }
 
 .wrap.wrap-danger {
@@ -13901,8 +13907,8 @@ pre.line-numbers>code {
 }
 
 .carousel-cards .carousel-inner {
-    padding-bottom: 60px;
-    padding-bottom: 6rem
+    /*padding-bottom: 60px;
+    padding-bottom: 6rem*/
 }
 
 .carousel-cards .carousel-inner .item .carousel-caption {
